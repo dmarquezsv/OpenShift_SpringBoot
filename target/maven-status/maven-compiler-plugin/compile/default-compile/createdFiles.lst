@@ -1,0 +1,8 @@
+sv\edu\udb\crud\model\User.class
+sv\edu\udb\crud\service\ReportService.class
+sv\edu\udb\crud\service\UserService.class
+sv\edu\udb\crud\controllers\ReportController.class
+sv\edu\udb\crud\DemoBaseDeDatosApplication.class
+sv\edu\udb\crud\config\WebConfig.class
+sv\edu\udb\crud\controllers\UserRestController.class
+sv\edu\udb\crud\repository\UserRepository.class
